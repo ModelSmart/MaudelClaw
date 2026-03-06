@@ -59,7 +59,7 @@
 |------|----------|------|
 | **macOS** | macOS 10.15+ | [下载 .dmg](./releases/latest) |
 | **Windows** | Windows 10+ | [下载 .exe](./releases/latest) |
-| **Web** | 任意现代浏览器 | [启动网页版](https://maudel.ai) |
+| **Web** | 任意现代浏览器 | [启动网页版](https://maudelclaw.ai) |
 
 ### 系统要求
 
@@ -135,7 +135,7 @@ MaudelClaw 同时支持 **SOTA（前沿）模型**和**本地 AI 模型**：
 ## 🤝 社区
 
 - **GitHub**: [ModelSmart/MaudelClaw](https://github.com/ModelSmart/MaudelClaw)
-- **官网**: [maudel.ai](https://maudel.ai)
+- **官网**: [maudelclaw.ai](https://maudelclaw.ai)
 - **问题反馈**: 提交 Bug 报告和功能请求
 
 ## 📄 许可证

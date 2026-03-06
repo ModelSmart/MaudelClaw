@@ -59,7 +59,7 @@ Choose your platform:
 |----------|--------------|----------|
 | **macOS** | macOS 10.15+ | [Download .dmg](./releases/latest) |
 | **Windows** | Windows 10+ | [Download .exe](./releases/latest) |
-| **Web** | Any modern browser | [Launch Web App](https://maudel.ai) |
+| **Web** | Any modern browser | [Launch Web App](https://maudelclaw.ai) |
 
 ### System Requirements
 
@@ -135,7 +135,7 @@ Comprehensive documentation will be available upon open-source release:
 ## 🤝 Community
 
 - **GitHub**: [ModelSmart/MaudelClaw](https://github.com/ModelSmart/MaudelClaw)
-- **Website**: [maudel.ai](https://maudel.ai)
+- **Website**: [maudelclaw.ai](https://maudelclaw.ai)
 - **Issues**: Report bugs and request features
 
 ## 📄 License
